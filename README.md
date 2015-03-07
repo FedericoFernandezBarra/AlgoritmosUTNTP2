@@ -6,6 +6,6 @@ TP Nº2 de Algoritmos y Estructuras de Datos, UTN 2013
 Tema: Cadena de caracteres
 Lenguaje utilizado: C++
 
-Las consignas de los ejercicios están en el .pdf (es un PDF del año 2014, tiene un ejercicio menos que el del 2013, no pude encontrar el viejo).
+Las consignas de los ejercicios están en el .pdf (es un PDF del año 2014, algunos ejercicios pueden diferir de los encontrados, no encontré el .pdf viejo).
 
 Cada ejercicio tiene su código y ejecutable.
