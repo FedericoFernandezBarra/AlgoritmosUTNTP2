@@ -1,7 +1,7 @@
 # AlgoritmosUTNTP2
 TP Nº2 de Algoritmos y Estructuras de Datos, UTN 2013
 
-34 Ejercicios que me dio a realizar el profesor de Algoritmos y Estructuras de datos Pablo Sznajleder. 
+34 Ejercicios que me dio a realizar el profesor de Algoritmos y Estructuras de datos de la Universidad Tecnológica Nacional.
 
 Tema: Cadena de caracteres
 Lenguaje utilizado: C++
